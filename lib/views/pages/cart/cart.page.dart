@@ -15,6 +15,7 @@ import 'package:fuodz/translations/cart.i18n.dart';
 
 import '../../../constants/app_colors.dart';
 
+//
 class CartPage extends StatefulWidget {
   const CartPage({Key key}) : super(key: key);
 
@@ -67,10 +68,8 @@ class _CartPageState extends State<CartPage> {
                       AmountTile("Sub-Total".i18n, "${model.currencySymbol} ${model.subTotalPrice.numCurrency}"),
                       // AmountTile("Delivery Fee".i18n,
                       //     "${model.currencySymbol} ${model.deliveryFee.numCurrency}"),
-                      AmountTile("Tax".i18n,
-                          "${model.currencySymbol} ${'0.00'.numCurrency}"),
-                      AmountTile("Discount".i18n,
-                          "${model.currencySymbol} ${model.discountCartPrice.numCurrency}"),
+                      AmountTile("Tax".i18n, "${model.currencySymbol} ${'0.00'.numCurrency}"),
+                      AmountTile("Discount".i18n, "${model.currencySymbol} ${model.discountCartPrice.numCurrency}"),
 
                       UiSpacer.verticalSpace(),
                       HStack([
