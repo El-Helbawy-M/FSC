@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.familystaff.customer"
+    name: "Family Staff"
+  ios:
+    id: "com.familystaff.customer"
+    name: "Family Staff"

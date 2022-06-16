@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "287674540083",
+    "project_id": "family-staff-customer",
+    "storage_bucket": "family-staff-customer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287674540083:android:622c118fe47858bc6b0346",
+        "android_client_info": {
+          "package_name": "com.familystaff.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287674540083-c7ip5b0ed2l5uu2kn9c9s9r9bp0knmcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPOou4OGZefCpN8adbduKq55LTD_tkgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287674540083-c7ip5b0ed2l5uu2kn9c9s9r9bp0knmcd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287674540083-cgu81276du8c27bjdc10ovgqk788mc19.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.familystaff.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287674540083:android:c922cf5f1bbd82206b0346",
+        "android_client_info": {
+          "package_name": "com.familystaff.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287674540083-c7ip5b0ed2l5uu2kn9c9s9r9bp0knmcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPOou4OGZefCpN8adbduKq55LTD_tkgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287674540083-c7ip5b0ed2l5uu2kn9c9s9r9bp0knmcd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287674540083-cgu81276du8c27bjdc10ovgqk788mc19.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.familystaff.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287674540083:android:c772c8efdc2e75f06b0346",
+        "android_client_info": {
+          "package_name": "com.familystaff.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287674540083-c7ip5b0ed2l5uu2kn9c9s9r9bp0knmcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPOou4OGZefCpN8adbduKq55LTD_tkgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287674540083-c7ip5b0ed2l5uu2kn9c9s9r9bp0knmcd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287674540083-cgu81276du8c27bjdc10ovgqk788mc19.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.familystaff.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
